@@ -1,6 +1,6 @@
 # Android NanoDegree Asteroid Radar
 
-This project is part of the Andrlid Kotlin Developer Nanodegree from Udacity. For details, please refer to the following:
+This project is part of the [Andrlid Kotlin Developer Nanodegree](https://www.udacity.com/course/advanced-android-with-kotlin--ud940) from Udacity. For details, please refer to the following:
 
 * Course 2 Project: Build an Asteroid Radar
 
